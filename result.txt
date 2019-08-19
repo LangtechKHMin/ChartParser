@@ -1,0 +1,128 @@
+(FINS
+  (S
+    (NP It)
+    (VP
+      (VP (VBE is) (JP dangerous))
+      (SNP
+        (FOR for)
+        (NP
+          (NP
+            (NP children)
+            (TOP (TO to) (VP (VSO play) (NP soccer))))
+          (PP (P in) (NP (Det the) (NOM street)))))))
+  (FIN .))
+
+(FINS
+  (S
+    (NP It)
+    (VP
+      (VP (VBE is) (JP dangerous))
+      (SNP
+        (FOR for)
+        (NP
+          (NP children)
+          (TOP
+            (TO to)
+            (VP
+              (VP (VSO play) (NP soccer))
+              (PP (P in) (NP (Det the) (NOM street)))))))))
+  (FIN .))
+
+(FINS
+  (S
+    (NP It)
+    (VP
+      (VP (VBE is) (JP dangerous))
+      (SNP
+        (FOR for)
+        (NP
+          (NP children)
+          (TOP
+            (TO to)
+            (VP
+              (VSO play)
+              (NP
+                (NP soccer)
+                (PP (P in) (NP (Det the) (NOM street))))))))))
+  (FIN .))
+
+(FINS
+  (S
+    (NP It)
+    (VP
+      (VP (VBE is) (JP dangerous))
+      (SNP
+        (SNP (FOR for) (NP children))
+        (TOP
+          (TO to)
+          (VP
+            (VP (VSO play) (NP soccer))
+            (PP (P in) (NP (Det the) (NOM street))))))))
+  (FIN .))
+
+(FINS
+  (S
+    (NP It)
+    (VP
+      (VP (VBE is) (JP dangerous))
+      (SNP
+        (SNP (FOR for) (NP children))
+        (TOP
+          (TO to)
+          (VP
+            (VSO play)
+            (NP (NP soccer) (PP (P in) (NP (Det the) (NOM street)))))))))
+  (FIN .))
+
+(FINS
+  (S
+    (NP It)
+    (VP
+      (VP
+        (VP (VBE is) (JP dangerous))
+        (SNP
+          (SNP (FOR for) (NP children))
+          (TOP (TO to) (VP (VSO play) (NP soccer)))))
+      (PP (P in) (NP (Det the) (NOM street)))))
+  (FIN .))
+
+(FINS
+  (S
+    (NP It)
+    (VP
+      (VP
+        (VP (VBE is) (JP dangerous))
+        (SNP
+          (FOR for)
+          (NP
+            (NP children)
+            (TOP (TO to) (VP (VSO play) (NP soccer))))))
+      (PP (P in) (NP (Det the) (NOM street)))))
+  (FIN .))
+
+(FINS
+  (S
+    (S
+      (NP It)
+      (VP
+        (VP (VBE is) (JP dangerous))
+        (SNP
+          (SNP (FOR for) (NP children))
+          (TOP (TO to) (VP (VSO play) (NP soccer))))))
+    (PP (P in) (NP (Det the) (NOM street))))
+  (FIN .))
+
+(FINS
+  (S
+    (S
+      (NP It)
+      (VP
+        (VP (VBE is) (JP dangerous))
+        (SNP
+          (FOR for)
+          (NP
+            (NP children)
+            (TOP (TO to) (VP (VSO play) (NP soccer)))))))
+    (PP (P in) (NP (Det the) (NOM street))))
+  (FIN .))
+
